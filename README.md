@@ -24,11 +24,10 @@ Yeh Power BI dashboard mobile sales, customer ratings, payment methods, aur regi
 ## 📸 Dashboard Preview
 ![Mobile Sales Dashboard](Screenshot 2026-10-02 003057.png)
 
-*(Note: Apni dashboard ki image repository mein upload karke uska file name yahan replace kar dein)*
-
 ---
 
 ## 📁 How to Use
 1. Repository ko download ya clone karein.
-2. `Day 30 - PowerBI Project - Mobile Sales Dashboard.pbix` file ko **Power BI Desktop** mein open karein.
+2. `Power BI Mobile Sales Dashboard.pbix` file ko **Power BI Desktop** mein open karein.
 3. Slicers (Brand, Payment Method, Month, Day) ka use karke interactive views explore karein.
+
