@@ -22,7 +22,7 @@ Yeh Power BI dashboard mobile sales, customer ratings, payment methods, aur regi
 ---
 
 ## 📸 Dashboard Preview
-![Mobile Sales Dashboard](apne_image_ka_name.jpg)
+![Mobile Sales Dashboard](Screenshot 2026-10-02 003057.png)
 
 *(Note: Apni dashboard ki image repository mein upload karke uska file name yahan replace kar dein)*
 
